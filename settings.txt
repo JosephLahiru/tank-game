@@ -1,0 +1,1 @@
+{"controls": {"1": ["w", "s", "a", "d", "space"], "2": ["i", "k", "j", "l", "n"]}, "sound": true, "music": true}
